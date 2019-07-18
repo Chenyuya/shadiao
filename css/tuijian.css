@@ -1,0 +1,12 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.main{
+	width: 6.4rem;
+	float: left;
+}
+.main img{
+	width: 6.4rem;
+	height: 11rem;
+}

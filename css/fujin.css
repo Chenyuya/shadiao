@@ -1,0 +1,147 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	width: 6.4rem;
+	float: left;
+}
+.bot{
+	width: 6.4rem;
+	height: 8.2rem;
+	float: left;
+}
+.bot_top{
+	width: 6rem;
+	height: 1rem;
+	float:left ;
+	padding: 0 .2rem;
+}
+.bot_top_a{
+	float: left;
+	width: .75rem;
+	height: 1rem;
+	line-height: 1rem;
+}
+.bot_top_a img{
+	width: .65rem;
+	height: .65rem;
+}
+.bot_top_b{
+	float: left;
+	width: 3.25rem;
+	height: 1rem;
+}
+.bot_top_b1{
+	width: 3.25rem;
+	height:  .62rem;
+	float: left;
+	font-size: .24rem;
+	line-height: .8rem;
+	color: #1E1E1E;
+	font-weight: bold;
+	text-indent: .1rem;
+}
+.bot_top_b2{
+	width: 3.25rem;
+	height: .38rem;
+	float: left;
+	margin: 0 .1rem;
+}
+.bot_top_b2 img{
+	float: left;
+	width: .51rem;
+	height: .24rem;
+	margin-right: .1rem;
+}
+.bot_top_b2:nth-child(2)img{
+	float: left;
+	width: .58rem;
+	height: .24rem;
+}
+.bot_top_c{
+	width: 2rem;
+	height: 1rem;
+	float: left;
+}
+.bot_top_c1{
+	width: 2rem;
+	height: .4rem;
+	background:  #f8f8f8;
+	border-radius: .3rem;
+	margin-top: .35rem;
+	font-size: .18rem;
+	font-weight: bold;
+	line-height: .4rem;
+	text-indent: .1rem;
+}
+.bot_top_c1 font{
+	font-size: .18rem;
+	font-weight: bold;
+	line-height: .4rem;
+	color:#f52c2e;
+	padding-left: .05rem;
+}
+.bot_top_c1 a{
+	color:#a1a3a0;
+}
+.bot_top_c1 font a{
+	color:#f52c2e;
+}
+.bot_nav{
+	width: 6rem;
+	height: 5.2rem;
+	float: left;
+	padding: 0 .2rem;
+}
+.bot_nav_a{
+	width: 6rem;
+	height: .5rem;
+	float: left;
+	font-size: .26rem;
+	color: #000000;
+}
+.bot_nav_b{
+	width: 6rem;
+	height: 4.1rem;
+	float: left;
+}
+.bot_nav_b img{
+	width: 4.01rem;
+	height: 4.02rem;
+}
+.bot_nav_c{
+	width: 6rem;
+	height: .6rem;
+	float: left;
+	font-size: .22rem;
+	color:#898989;
+	line-height: .6rem;
+	border-bottom: .01rem solid #f6f6f6;
+}
+.bot_bot{
+	width: 6rem;
+	height: .8rem;
+	float: left;
+	padding: 0 .2rem;
+}
+.bot_bot ul{
+	width: 2rem;
+	height: .8rem;
+	float: left;
+	text-align: center;
+}
+.bot_bot ul li{
+	float: left;
+	font-size: .22rem;
+	color:  #898989;
+	list-style: none;
+	line-height: .8rem;
+	margin-left: .2rem;
+}
+.bot_bot ul li img{
+	width: .32rem;
+	height: .28rem;
+	vertical-align: middle;
+	margin-left: .3rem;
+}
